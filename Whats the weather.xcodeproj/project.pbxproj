@@ -12,6 +12,8 @@
 		D5198B9B21503568009C581C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D5198B9921503568009C581C /* Main.storyboard */; };
 		D5198B9D2150356E009C581C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D5198B9C2150356E009C581C /* Assets.xcassets */; };
 		D5198BA02150356E009C581C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D5198B9E2150356E009C581C /* LaunchScreen.storyboard */; };
+		D5198BA8215040FA009C581C /* Background.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D5198BA7215040FA009C581C /* Background.jpg */; };
+		D5198BAA21504B5A009C581C /* background2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D5198BA921504B5A009C581C /* background2.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		D5198B9C2150356E009C581C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D5198B9F2150356E009C581C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D5198BA12150356E009C581C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D5198BA7215040FA009C581C /* Background.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Background.jpg; sourceTree = "<group>"; };
+		D5198BA921504B5A009C581C /* background2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = background2.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,9 +58,11 @@
 		D5198B9421503568009C581C /* Whats the weather */ = {
 			isa = PBXGroup;
 			children = (
+				D5198BA7215040FA009C581C /* Background.jpg */,
 				D5198B9521503568009C581C /* AppDelegate.swift */,
 				D5198B9721503568009C581C /* ViewController.swift */,
 				D5198B9921503568009C581C /* Main.storyboard */,
+				D5198BA921504B5A009C581C /* background2.jpg */,
 				D5198B9C2150356E009C581C /* Assets.xcassets */,
 				D5198B9E2150356E009C581C /* LaunchScreen.storyboard */,
 				D5198BA12150356E009C581C /* Info.plist */,
@@ -123,6 +129,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				D5198BA02150356E009C581C /* LaunchScreen.storyboard in Resources */,
+				D5198BA8215040FA009C581C /* Background.jpg in Resources */,
+				D5198BAA21504B5A009C581C /* background2.jpg in Resources */,
 				D5198B9D2150356E009C581C /* Assets.xcassets in Resources */,
 				D5198B9B21503568009C581C /* Main.storyboard in Resources */,
 			);
